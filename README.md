@@ -1,2 +1,2 @@
-# FCOS-Pytorch
-Use Fcos in torchvision and Change Backbone to CspResNest50 
+# Retinanet-Pytorch
+Use Retinanet in torchvision and Change Backbone to CspResNest50 
